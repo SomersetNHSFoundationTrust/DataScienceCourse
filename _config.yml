@@ -1,2 +1,6 @@
 title: Data Science Basics
 author: SomersetFT
+repository:
+  url                       : https://github.com/SomersetNHSFoundationTrust/DataScienceCourse
+launch_buttons:
+  notebook_interface: "classic"
