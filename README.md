@@ -1,6 +1,9 @@
 # Data Science Basics
 
 Welcome to the "Data Science Basics" Jupyter Book repository. This repository contains a collection of Jupyter notebooks covering the fundamental concepts of data science.
+Please note, this is not designed to be a standalone resource, but to be taken as part of the training offered by Somerset Foundation Trust. 
+Anyone is welcome to read through the content here, if you find it useful, consider contacting us for the full training course!
+
 
 ## Table of Contents
 
