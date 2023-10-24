@@ -4,9 +4,9 @@ Welcome to the "Data Science Basics" Jupyter Book repository. This repository co
 
 ## Table of Contents
 
-1. [Introduction to Notebooks](01-introduction.ipynb)
+1. [Introduction to Notebooks](Content/Introduction_to_notebooks.ipynb)
    - What are notebooks
-   - Other questions
+   - Helpful tips on how to use notebooks
 
 ## Prerequisites
 
