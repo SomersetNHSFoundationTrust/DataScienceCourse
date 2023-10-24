@@ -1,6 +1,10 @@
 title: Data Science Basics
 author: SomersetFT
+only_build_toc_files: true
+logo: Content/team_logo.png
+execute:
+  execute_notebooks: off
 repository:
-  url                       : https://github.com/SomersetNHSFoundationTrust/DataScienceCourse
-launch_buttons:
-  notebook_interface: "classic"
+  url: https://github.com/SomersetNHSFoundationTrust/DataScienceCourse
+html:
+  use_repository_button: true
