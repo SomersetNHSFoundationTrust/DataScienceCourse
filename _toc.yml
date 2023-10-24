@@ -1,4 +1,5 @@
 format: jb-book
-root: Content/Introduction_to_notebooks
+root: README.md
 chapters:
+  - file: Content/Introduction_to_notebooks
   - file: Content/Introduction_to_Python
