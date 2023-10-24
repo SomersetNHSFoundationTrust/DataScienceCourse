@@ -2,6 +2,7 @@ title: Data Science Basics
 author: SomersetFT
 only_build_toc_files: true
 logo: Content/team_logo.png
+copyright: "2023"
 execute:
   execute_notebooks: off
 repository:
