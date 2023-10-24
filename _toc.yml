@@ -1,2 +1,4 @@
 format: jb-book
 root: Content/Introduction_to_notebooks
+chapters:
+  - file: Content/Introduction_to_Python
