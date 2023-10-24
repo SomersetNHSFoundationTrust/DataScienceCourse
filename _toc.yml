@@ -3,3 +3,5 @@ root: README.md
 chapters:
   - file: Content/Introduction_to_notebooks
   - file: Content/Introduction_to_Python
+    sections:
+      - file: Content/Introduction_to_Python2
