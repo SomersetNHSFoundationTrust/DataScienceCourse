@@ -17,6 +17,9 @@ Anyone is welcome to read through the content here, if you find it useful, consi
 
    2.1 [Control Structures](Content/Introduction_to_Python2.ipynb)
    - `for`, `if` and `while`.
+   
+   2.2 [Data Structures](Content/Introduction_to_Python3.ipynb)
+   - `list`, `tuple`, `dict` and `set`.
 
 ## Prerequisites
 

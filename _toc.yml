@@ -5,3 +5,4 @@ chapters:
   - file: Content/Introduction_to_Python
     sections:
       - file: Content/Introduction_to_Python2
+      - file: Content/Introduction_to_Python3
