@@ -20,6 +20,9 @@ Anyone is welcome to read through the content here, if you find it useful, consi
    
    2.2 [Data Structures](Content/Introduction_to_Python3.ipynb)
    - `list`, `tuple`, `dict` and `set`.
+   
+   2.3 [Built-in Functions](Content/Introduction_to_Python4.ipynb)
+      - Utilising functions already built-in within Python
 
 ## Prerequisites
 
