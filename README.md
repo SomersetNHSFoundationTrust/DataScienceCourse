@@ -24,6 +24,9 @@ Anyone is welcome to read through the content here, if you find it useful, consi
    2.3 [Built-in Functions](Content/Introduction_to_Python4.ipynb)
       - Utilising functions already built-in within Python
 
+   2.4 [Importing Libraries](Content/Introduction_to_Python5.ipynb)
+      - Utilising external libraries.
+
 ## Prerequisites
 
 Before you begin, make sure you have the following installed:
