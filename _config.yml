@@ -1,7 +1,7 @@
 title: Data Science Basics
 author: SomersetFT
 only_build_toc_files: true
-logo: Content/team_logo.png
+logo: images/team_logo.png
 copyright: "2023"
 execute:
   execute_notebooks: off
@@ -9,3 +9,4 @@ repository:
   url: https://github.com/SomersetNHSFoundationTrust/DataScienceCourse
 html:
   use_repository_button: true
+  favicon: images/favicon.ico
