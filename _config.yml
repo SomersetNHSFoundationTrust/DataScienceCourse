@@ -10,3 +10,5 @@ repository:
 html:
   use_repository_button: true
   favicon: images/favicon.ico
+launch_buttons:
+  colab_url: "https://colab.research.google.com"
