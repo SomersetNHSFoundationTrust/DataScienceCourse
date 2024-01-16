@@ -8,12 +8,12 @@ Anyone is welcome to read through the content here, if you find it useful, consi
 ## Table of Contents
 
 1. [Introduction to Notebooks](Content/Introduction_to_notebooks.ipynb)
-   - What are notebooks
-   - Helpful tips on how to use notebooks
+   - What are notebooks?
+   - Helpful tips on how to use notebooks.
    
 2. [Introduction to Python](Content/Introduction_to_Python.ipynb)
-   - What is Python
-   - Using variables and functions
+   - What is Python?
+   - Using variables and functions.
 
    2.1 [Control Structures](Content/Introduction_to_Python2.ipynb)
    - `for`, `if` and `while`.
@@ -22,17 +22,27 @@ Anyone is welcome to read through the content here, if you find it useful, consi
    - `list`, `tuple`, `dict` and `set`.
    
    2.3 [Built-in Functions](Content/Introduction_to_Python4.ipynb)
-      - Utilising functions already built-in within Python
+      - Utilising functions already built-in within Python.
 
    2.4 [Importing Libraries](Content/Introduction_to_Python5.ipynb)
       - Utilising external libraries.
+
+   2.5 [Checkpoint](Content/Checkpoint.ipynb)
+   - Test your understanding.
+
+3. [Introduction to NumPy](Content/Introduction_to_Numpy.ipynb)
+   - Benefits of NumPy.
+   - Common mathematical functions.
+
+   3.1 [Advanced NumPy](Content/Advanced_NumPy.ipynb)
+   - Memory management.
 
 ## Prerequisites
 
 Before you begin, make sure you have the following installed:
 - Jupyter Notebook
 - Python 3.x
-- Required Python libraries (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, etc.)
+- Required Python libraries (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Plotly, etc.)
 
 ## Getting Started
 
