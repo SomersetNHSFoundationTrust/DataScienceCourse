@@ -11,4 +11,4 @@ chapters:
       - file: Content/Checkpoint
   - file: Content/Introduction_to_Numpy
     sections:
-      Content/Advanced_NumPy
+      - file: Content/Advanced_NumPy
