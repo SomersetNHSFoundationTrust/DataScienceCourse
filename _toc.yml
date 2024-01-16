@@ -9,3 +9,6 @@ chapters:
       - file: Content/Introduction_to_Python4
       - file: Content/Introduction_to_Python5
       - file: Content/Checkpoint
+  - file: Content/Introduction_to_Numpy
+    sections:
+      Content/Advanced_NumPy
