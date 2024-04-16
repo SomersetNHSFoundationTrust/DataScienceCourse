@@ -13,3 +13,4 @@ chapters:
     sections:
       - file: Content/Advanced_NumPy
   - file: Content/Mathematics_for_Data_Science
+  - file: Content/Introduction_to_Pandas
