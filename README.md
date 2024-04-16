@@ -37,6 +37,11 @@ Anyone is welcome to read through the content here, if you find it useful, consi
    3.1 [Advanced NumPy](Content/Advanced_NumPy.ipynb)
    - Memory management.
 
+4. [Mathematics for Data Science](Content/Mathematics_for_Data_Science.ipynb)
+   - Maths Basics and Calculus review.
+   - Probability theory.
+   - Descriptive & inferential statistics.
+
 ## Prerequisites
 
 Before you begin, make sure you have the following installed:
