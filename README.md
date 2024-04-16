@@ -42,6 +42,11 @@ Anyone is welcome to read through the content here, if you find it useful, consi
    - Probability theory.
    - Descriptive & inferential statistics.
 
+5. [Introduction to Pandas](Content/Introduction_to_Pandas.ipynb)
+   - Read in and manipulate data.
+   - Create simple plots.
+   - Learn to use time series data.
+
 ## Prerequisites
 
 Before you begin, make sure you have the following installed:
