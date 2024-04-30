@@ -15,4 +15,4 @@ chapters:
   - file: Content/Mathematics_for_Data_Science
   - file: Content/Introduction_to_Pandas
     sections:
-          Content/Pandas_Application.ipynb
+      - file: Content/Pandas_Application.ipynb
