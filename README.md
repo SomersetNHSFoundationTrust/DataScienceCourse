@@ -47,6 +47,10 @@ Anyone is welcome to read through the content here, if you find it useful, consi
    - Create simple plots.
    - Learn to use time series data.
 
+6. [Classification & Regression]
+   - [Regression Workbook](Content/Regression_Workbook.ipynb)
+   - [Classification Workbook](Content/Classification_Workbook.ipynb)
+
 ## Prerequisites
 
 Before you begin, make sure you have the following installed:
