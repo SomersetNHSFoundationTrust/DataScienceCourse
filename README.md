@@ -47,7 +47,15 @@ Anyone is welcome to read through the content here, if you find it useful, consi
    - Create simple plots.
    - Learn to use time series data.
 
-6. [Classification & Regression]
+6. [Data Preprocessing - Cleaning and Preparing Data](Content/data_preprocessing1_cleaningdata.ipynb)
+   - Checking and Converting Data Types
+   - Handle Missing Values
+   - Remove Duplicates
+   - Removing Outliers
+   - Dealing with Target Imbalance
+
+
+7. Classification & Regression
    - [Regression Workbook](Content/Regression_Workbook.ipynb)
    - [Classification Workbook](Content/Classification_Workbook.ipynb)
 
