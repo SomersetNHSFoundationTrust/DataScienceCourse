@@ -54,7 +54,6 @@ Anyone is welcome to read through the content here, if you find it useful, consi
    - Removing Outliers
    - Dealing with Target Imbalance
 
-
 7. Classification & Regression
    - [Regression Workbook](Content/Regression_Workbook.ipynb)
    - [Classification Workbook](Content/Classification_Workbook.ipynb)
