@@ -20,5 +20,9 @@ chapters:
   - file: Content/Regression_Workbook.ipynb
     sections:
       - file: Content/Classification_Workbook.ipynb
+  - file: Content/Introduction_to_time_series.ipynb
+    sections:
+      - file: Content/Benchmarking_forecasts.ipynb
+      - file: Content/Exponential_smoothing_models.ipynb
 
 
