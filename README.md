@@ -59,15 +59,18 @@ Anyone is welcome to read through the content here, if you find it useful, consi
    - [Classification Workbook](Content/Classification_Workbook.ipynb)
 
 8. [Introduction to Time Series](Content/Introduction_to_time_series)
+
    - Introduction to working with time series data.
    - Time series decomposition.
    - Introduce the autocorrelation function.
+
    8.1 [Benchmarking forecast models](Content/Benchmarking_forecasts.ipynb)
    - Use mean, naive, seasonal naive and drift models on time series data.
    - Introduce accuracy metrics.
+
    8.2 [Exponential Smoothing](Content/Exponential_smoothing_models.ipynb)
    - Derive, use, and compare three exponential smoothing algorithm approaches.
-   - Describe the ETS framework.
+   - Introduce the Error, Trend, Seasonality (ETS) framework.
 
 ## Prerequisites
 
