@@ -16,7 +16,9 @@ chapters:
   - file: Content/Introduction_to_Pandas
     sections:
       - file: Content/Pandas_Application.ipynb
-  - file: Content/data_preprocessing1_cleaningdata.ipynb
+  - file: Content/data_preprocessing
+    sections:
+      - file: Content/data_preprocessing1_cleaningdata.ipynb
   - file: Content/Regression_Workbook.ipynb
     sections:
       - file: Content/Classification_Workbook.ipynb

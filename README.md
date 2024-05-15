@@ -47,12 +47,21 @@ Anyone is welcome to read through the content here, if you find it useful, consi
    - Create simple plots.
    - Learn to use time series data.
 
-6. [Data Preprocessing - Cleaning and Preparing Data](Content/data_preprocessing1_cleaningdata.ipynb)
-   - Checking and Converting Data Types
-   - Handle Missing Values
-   - Remove Duplicates
-   - Removing Outliers
-   - Dealing with Target Imbalance
+6. [Data Preprocessing]
+
+   6.1 [Cleaning and Preparing Data](Content/data_preprocessing1_cleaningdata.ipynb)
+   - Checking and Converting Data Types.
+   - Handle Missing Values.
+   - Remove Duplicates.
+   - Removing Outliers.
+   - Dealing with Target Imbalance.
+
+   6.2 [Feature Engineering and Scale & Transform]
+   - Creating New Features.
+   - Encoding Categorical Variables.
+   - Removing Multicollinearity.
+   - Normalising (scaling) the Data.
+   - Feature and Target Transform.
 
 7. Classification & Regression
    - [Regression Workbook](Content/Regression_Workbook.ipynb)
