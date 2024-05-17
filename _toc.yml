@@ -19,6 +19,7 @@ chapters:
   - file: Content/data_preprocessing
     sections:
       - file: Content/data_preprocessing1_cleaningdata.ipynb
+      - file: Content/data_preprocessing2_featureengineering.ipynb
   - file: Content/Regression_Workbook.ipynb
     sections:
       - file: Content/Classification_Workbook.ipynb
