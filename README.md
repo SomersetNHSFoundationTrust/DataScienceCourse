@@ -64,8 +64,15 @@ Anyone is welcome to read through the content here, if you find it useful, consi
    - Transformation.
 
 7. Classification & Regression
-   - [Regression Workbook](Content/Regression_Workbook.ipynb)
-   - [Classification Workbook](Content/Classification_Workbook.ipynb)
+
+   7.1 [Regression Workbook](Content/Regression_Workbook.ipynb)
+   - Simple linear regression.
+   - Assumptions of linear regression.
+   - Multiple linear regression.
+
+   7.2 [Classification Workbook](Content/Classification_Workbook.ipynb)
+   - Logistic regression.
+   - Confusion matrix & ROC curves.
 
 8. [Introduction to Time Series](Content/Introduction_to_time_series)
 
