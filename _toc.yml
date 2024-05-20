@@ -15,10 +15,9 @@ chapters:
   - file: Content/Mathematics_for_Data_Science
   - file: Content/Introduction_to_Pandas
     sections:
-      - file: Content/Pandas_Application.ipynb
-  - file: Content/data_preprocessing
+      - file: Content/Pandas_Application.ipynb  
+  - file: Content/data_preprocessing1_cleaningdata.ipynb
     sections:
-      - file: Content/data_preprocessing1_cleaningdata.ipynb
       - file: Content/data_preprocessing2_featureengineering.ipynb
   - file: Content/Regression_Workbook.ipynb
     sections:
