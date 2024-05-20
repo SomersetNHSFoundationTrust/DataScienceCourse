@@ -21,10 +21,10 @@ chapters:
       - file: Content/data_preprocessing2_featureengineering.ipynb
   - file: Content/intro.md
     sections:
-      - file: graphing_theory.md
-      - file: Introduction_to_Plotly_Express
-      - file: Introduction_to_Plotly_Express_answers
-      - file: Introduction to Plotly Graph Objects
+      - file: Content/graphing_theory.md
+      - file: Content/Introduction_to_Plotly_Express
+      - file: Content/Introduction_to_Plotly_Express_answers
+      - file: Content/Introduction to Plotly Graph Objects
   - file: Content/Regression_Workbook.ipynb
     sections:
       - file: Content/Classification_Workbook.ipynb
