@@ -10,7 +10,7 @@ In this mini chapter, we provide a checklist of core design principles for creat
 
 Here is the Data Science & OR teams default visual template for graphs
 
-![](pictures\graphs.png)
+![graphs](pictures/graphs.png)
 
 ###### Design Graphs Checklist
 
@@ -119,7 +119,7 @@ Relaying information to users works best when there is a narrative or story behi
 
 We could either use **chapter story telling** (where the story is over multiple tabs) by using individual tabs explaining admissions, moving on to flow metrics like length of stay & occupancy, then discharges, and finally readmissions. Or we could explain this with **book story telling** (Where the entire story is within one graph or tab) by utilising a flow diagram like Sankey. Both are valid, but you should consider the audience when choosing. All stories should be accompanied by explanatory text!
 
-![](pictures\story_telling.png)
+![story telling](pictures/story_telling.png)
 
 ###### Story Telling Checklist
 
@@ -131,4 +131,4 @@ We could either use **chapter story telling** (where the story is over multiple 
 
 Stuck creating line charts? Here is a handy guide to finding the best visualisation, just remember to consider your audience!
 
-![](pictures\Visual%20Vocabulory%20.png)
+![visual vocabulary](pictures/Visual%20Vocabulory%20.png)
