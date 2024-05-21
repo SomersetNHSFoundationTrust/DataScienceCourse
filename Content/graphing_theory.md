@@ -131,4 +131,4 @@ We could either use **chapter story telling** (where the story is over multiple 
 
 Stuck creating line charts? Here is a handy guide to finding the best visualisation, just remember to consider your audience!
 
-![visual vocabulary](pictures/Visual%20Vocabulory%20.png)
+![visual vocabulary](pictures/Visual_Vocabulory.png)
