@@ -2,7 +2,6 @@ title: Introduction to Data Science
 author: Somerset NHS Foundation Trust
 only_build_toc_files: true
 logo: images/team_logo.png
-copyright: "2023"
 execute:
   execute_notebooks: off
 repository:
@@ -10,5 +9,10 @@ repository:
 html:
   use_repository_button: true
   favicon: images/favicon.ico
+  extra_footer: '<div><img src="trust_logo.png" alt="Somerset NHS Foundation Trust Logo" style="width: 50px; height: auto;"/><span>&copy; Somerset NHS Foundation Trust 2023</span></div>'
 launch_buttons:
   colab_url: "https://colab.research.google.com"
+sphinx:
+  config:
+    html_show_copyright: false
+    html_extra_path: [ 'images' ]
