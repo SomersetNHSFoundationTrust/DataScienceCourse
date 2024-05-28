@@ -1,8 +1,5 @@
 # Data Visualisation in Plotly
 
-todo image here
-
-
 * Introduction to Graph Theory.
 * Introduction to Plotly Express
   * Basic Charts
