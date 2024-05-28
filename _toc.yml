@@ -1,5 +1,5 @@
 format: jb-book
-root: Course Introduction.md
+root: Content/Course Introduction.md
 chapters:
   - file: Content/Introduction_to_notebooks
   - file: Content/Introduction_to_Python

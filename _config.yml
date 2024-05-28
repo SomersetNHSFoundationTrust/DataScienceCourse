@@ -9,7 +9,7 @@ repository:
 html:
   use_repository_button: true
   favicon: images/favicon.ico
-  extra_footer: '<div><img src="../trust_logo.png" alt="Somerset NHS Foundation Trust Logo" style="width: 50px; height: auto;"/><span>&copy; Somerset NHS Foundation Trust 2023</span></div>'
+  extra_footer: '<div><img src="../trust_logo.png" alt="Somerset NHS Foundation Trust Logo" style="width: 200px; height: auto;"/><span>&copy; Somerset NHS Foundation Trust 2023</span></div>'
 launch_buttons:
   colab_url: "https://colab.research.google.com"
 sphinx:
