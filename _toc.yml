@@ -1,5 +1,5 @@
 format: jb-book
-root: README.md
+root: Content/Course Introduction.md
 chapters:
   - file: Content/Introduction_to_notebooks
   - file: Content/Introduction_to_Python
@@ -19,14 +19,13 @@ chapters:
   - file: Content/data_preprocessing1_cleaningdata.ipynb
     sections:
       - file: Content/data_preprocessing2_featureengineering.ipynb
+  - file: Content/graphing_theory.md
   - file: Content/intro.md
     sections:
-      - file: Content/graphing_theory.md
       - file: Content/Introduction_to_Plotly_Express
       - file: Content/Introduction to Plotly Graph Objects
   - file: Content/Regression_Workbook.ipynb
-    sections:
-      - file: Content/Classification_Workbook.ipynb
+  - file: Content/Classification_Workbook.ipynb
   - file: Content/Introduction_to_time_series.ipynb
     sections:
       - file: Content/Benchmarking_forecasts.ipynb
