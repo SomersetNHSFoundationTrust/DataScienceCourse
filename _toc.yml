@@ -30,5 +30,6 @@ chapters:
     sections:
       - file: Content/Benchmarking_forecasts.ipynb
       - file: Content/Exponential_smoothing_models.ipynb
+      - file: Content/Other_forecasting_methods.ipynb
 
 
